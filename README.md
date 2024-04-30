@@ -4,7 +4,7 @@ Dataset downloading
 You will use a subset of the UTKFace dataset. 
 A train val folder has been created by choosing a subset (5,000 face images) from the UTKFace dataset for you to train and validate your model.
 It is a shared google drive folder below.
-https://drive.google.com/drive/folders/1UjYRDyo10Fx-Rv91CQl5ZfwF85HiLUX8? usp=sharing
+https://drive.google.com/drive/folders/1CJDxAAb930hInvOGt_J3TsPPjao3pgwU?usp=sharing
 
 Click the link above. It must be in the “shared with me” in your Google Drive.
 • Right-click this folder, choose “Add shortcut to Drive”, then specify the path where you would like to put it.
